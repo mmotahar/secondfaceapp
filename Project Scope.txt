@@ -1,6 +1,6 @@
 this is the first tile.
 
-Team members are A, B and C
+Team members are Deeksha and Arshpreet
 
 
 Created a new repository
