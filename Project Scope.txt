@@ -1,3 +1,12 @@
 this is the first tile.
 
 Team members are A, B and C
+
+
+Created a new repository
+add team members
+Cloned the repository into my local machine using Github Desktop
+I rightclicked on the folder and opened explorer
+I created my first file in the explorer
+COMMIT means saving all the changes we made in our local machine into our repository
+
