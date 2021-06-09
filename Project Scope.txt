@@ -1,7 +1,7 @@
 this is the first tile.
 
 Team members are Deeksha and Arshpreet
-
+And Mohammad is the team leader 
 
 Created a new repository
 add team members
